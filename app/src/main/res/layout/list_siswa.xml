@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textListIdSiswa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID Siswa" />
+
+    <TextView
+        android:id="@+id/textListNis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NIS"/>
+
+    <TextView
+        android:id="@+id/textListNamaSiswa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nama"/>
+
+    <TextView
+        android:id="@+id/textListAlamat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Alamat"/>
+
+    <TextView
+        android:id="@+id/textListJk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JK"/>
+
+</LinearLayout>
